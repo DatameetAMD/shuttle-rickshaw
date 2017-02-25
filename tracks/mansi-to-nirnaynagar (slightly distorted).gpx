@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx version="1.0" creator="QGIS">
+<trk>
+<name>actual route</name>
+<url>Digitized in QGIS</url>
+<trkseg>
+<trkpt lat="23.032268541656" lon="72.525357229317">
+</trkpt>
+<trkpt lat="23.034080902967" lon="72.527494707441">
+</trkpt>
+<trkpt lat="23.037771856121" lon="72.527710856914">
+</trkpt>
+<trkpt lat="23.038987417363" lon="72.527446674225">
+</trkpt>
+<trkpt lat="23.040048261848" lon="72.527927006387">
+</trkpt>
+<trkpt lat="23.040512378683" lon="72.527590773874">
+</trkpt>
+<trkpt lat="23.044866158756" lon="72.529728251998">
+</trkpt>
+<trkpt lat="23.046125855674" lon="72.530400717025">
+</trkpt>
+<trkpt lat="23.045794357628" lon="72.533666975732">
+</trkpt>
+<trkpt lat="23.059517694305" lon="72.534051241462">
+</trkpt>
+<trkpt lat="23.058655883412" lon="72.536212736194">
+</trkpt>
+<trkpt lat="23.059364197323" lon="72.536505430734">
+</trkpt>
+<trkpt lat="23.055053896105" lon="72.544210266702">
+</trkpt>
+<trkpt lat="23.063384726532" lon="72.550310485169">
+</trkpt>
+<trkpt lat="23.064688443779" lon="72.548677355815">
+</trkpt>
+<trkpt lat="23.066014244973" lon="72.547596608449">
+</trkpt>
+<trkpt lat="23.068069211007" lon="72.543898050797">
+</trkpt>
+<trkpt lat="23.069019345981" lon="72.543609851499">
+</trkpt>
+<trkpt lat="23.073195441066" lon="72.553624777091">
+</trkpt>
+<trkpt lat="23.074454872866" lon="72.556963085622">
+</trkpt>
+<trkpt lat="23.072311622234" lon="72.557851700123">
+</trkpt>
+<trkpt lat="23.072355813314" lon="72.558740314624">
+</trkpt>
+<trkpt lat="23.072864009685" lon="72.559364746435">
+</trkpt>
+</trkseg>
+</trk>
+</gpx>
