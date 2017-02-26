@@ -1,3 +1,1 @@
-We will update README.md for this project soon!
-
-- Datameet Ahmedabad
+This repo is gpx files for all shuttle rickshaw routes of ahmedabad
